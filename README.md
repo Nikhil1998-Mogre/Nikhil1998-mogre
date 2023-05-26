@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **nikhilmogre1998@gmail.com**
 
-- 📄 Know about my experiences [2-Month Experience at UDEN in Data Science](2-Month Experience at UDEN in Data Science)
+- 📄 Know about my experiences [2-Month Experience at UDEN in Data Science]
 
 - ⚡ Fun fact **I think I am funny😁**
 
