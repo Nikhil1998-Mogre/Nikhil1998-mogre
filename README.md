@@ -2,7 +2,7 @@
 <h3 align="center">Data Analyst | Transforming Complex Data into Actionable Insights</h3>
 
 <img align='right' alt='coding' width='400' src='![image](https://github.com/Nikhil1998-Mogre/Nikhil1998-mogre/assets/109106842/89a8e704-ca24-48a3-b67a-c7dbae14d4db)
-'
+'>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=n&label=Profile%20views&color=0e75b6&style=flat" alt="n" /> </p>
 
