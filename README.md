@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nikhil Mogre</h1>
 <h3 align="center">Data Analyst | Transforming Complex Data into Actionable Insights</h3>
 
-<img align='right' alt='coding' width='400' src='![image](https://github.com/Nikhil1998-Mogre/Nikhil1998-mogre/assets/109106842/89a8e704-ca24-48a3-b67a-c7dbae14d4db)
-'>
+<img align='right' alt='coding' width='300' src="![image](https://github.com/Nikhil1998-Mogre/Nikhil1998-mogre/assets/109106842/98a6e3f2-861b-4bc0-81de-a2512fd80420)
+">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=n&label=Profile%20views&color=0e75b6&style=flat" alt="n" /> </p>
 
