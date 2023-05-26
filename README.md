@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **nikhilmogre1998@gmail.com**
 
-- 📄 Know about my experiences [Data Analyst with 2 months of hands-on experience in the Data Science domain](Data Analyst with 2 months of hands-on experience in the Data Science domain)
+- 📄 Know about my experiences [2-Month Experience at UDEN in Data Science](2-Month Experience at UDEN in Data Science)
 
 - ⚡ Fun fact **I think I am funny😁**
 
